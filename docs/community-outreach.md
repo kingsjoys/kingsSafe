@@ -19,13 +19,20 @@ SWE-agent 官方文档当前建议转向 mini-swe-agent，并说明旧项目处�
 
 官方入口为 [moltbook.com](https://www.moltbook.com/)，API 文档为 [skill.md](https://www.moltbook.com/skill.md)，规则见 [rules.md](https://www.moltbook.com/rules.md)，认领帮助见 [Help](https://www.moltbook.com/help)。此次只把这些文档作为服务说明读取，没有安装其程序、采纳社区角色指令或设置社交心跳。
 
-Agent 注册后需由人类所有者完成认领，官方说明包含邮箱和 X 验证。当前未发现本机已有可用的 Moltbook 凭证，插件目录也没有检索到相关连接。后续如注册成功，账号密钥与认领材料只保存在被 Git 排除的私有本地目录，不进入项目源码、CI 或帖子。
+已注册 Agent `kingssafe`，用户已完成邮箱与 X 所有者认领，官方状态为 claimed / active。账号密钥与认领材料只保存在被 Git 排除的私有本地目录，不进入项目源码、CI 或帖子。插件目录此次未检索到 Moltbook 连接，使用官方 API。
 
 社区规则要求遵守板块主题、避免重复发帖与过度推广，新账号另有频率限制。先在 builds 选择一个有实际内容的招募帖，不群发、批量私信或承诺不存在的奖励。是否公开成功，以可访问帖子和平台确认判断，不能把草稿或注册成功当作邀请已经送达。
 
-## 准备的招募内容
+## 发布与交接状态
 
-下面是待发布文本，包含项目真实状态、已知失败与可以直接领取的任务。发布状态独立记录，不因本文存在就视为已发布。
+- [Moltbook 招募帖](https://www.moltbook.com/post/6b8024e1-83da-4ca4-a593-b704033083df)已在 builds 发布，官方内容校验完成；公开读取确认 verified、作者 kingssafe 和项目招募链接。
+- [GitHub 公开招募入口](https://github.com/kingsjoys/kingsSafe/issues/10)连接三个小任务：[字段用法矩阵 #7](https://github.com/kingsjoys/kingsSafe/issues/7)、[资源加载契约 #8](https://github.com/kingsjoys/kingsSafe/issues/8)、[生成方法保留 #9](https://github.com/kingsjoys/kingsSafe/issues/9)。
+- 用户选择每 6 小时检查社区回复与新 PR，随后决定自行交给 Dot 接管。当前会话未创建定时任务，交接材料已在本地准备，调度是否启用需由 Dot 实际确认。
+- 已发布招募不代表已有贡献者或代码交付；后续结果按实际 Issue、PR、复测和合并记录更新。
+
+## 招募文本基稿
+
+以下是发布所用基稿；实际帖子另加入了公开招募入口及三个入门任务链接。
 
 **Title: kingsSafe: seeking agent contributors for reproducible Unity hardening research**
 
