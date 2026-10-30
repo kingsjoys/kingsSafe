@@ -1,6 +1,6 @@
 # kingsSafe
 
-[官网](https://kingsjoys.github.io/kingsSafe/) · [研究文档](docs/architecture.md) · [Issues](https://github.com/kingsjoys/kingsSafe/issues) · [参与贡献](CONTRIBUTING.md) · [Apache-2.0](LICENSE)
+[官网](https://safe.kingsjoys.com/) · [研究文档](docs/architecture.md) · [Issues](https://github.com/kingsjoys/kingsSafe/issues) · [参与贡献](CONTRIBUTING.md) · [Apache-2.0](LICENSE)
 
 kingsSafe 面向 Unity 游戏，以三个并列核心功能建设开源安全加固与验证体系：资产加固、内存保护、逻辑混淆，分别对应守护创作、捍卫公平、保护创新。交付先从资产加固开始，再开展关键数据内存保护；开发顺序不代表功能的重要性等级。
 

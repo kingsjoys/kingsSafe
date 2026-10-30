@@ -28,7 +28,7 @@
 
 首屏直接展示资产加固、内存保护、逻辑混淆及其目标：守护创作、捍卫公平、保护创新。二屏展示“集成无侵入 · 体验零干扰”的设计目标，以代码与资产 → Unity → Build → iOS / Android / Windows 的流水线说明工作机制，kingsSafe 从 Build 上方接入构建环节；各平台对号为设计目标示意。后续依次为攻防演练、接入与使用问答、产品文档入口。文档分为产品介绍、接入与构建、三项核心防护、攻防演练，以及技术参考。攻防演练以 kingsSafe 保护罩与 REA 分析挑战相对展示，罩内为资产、内存和逻辑，中间用 VS 与“经得起真实挑战”连接两侧，详细对照方法在演练文档中说明。研发路线图与第一版任务计划保留在项目内部文档，不随官网构建发布。官网构建仅同步明确列入清单的公开参考文档。
 
-本地执行 npm run build 和 npm run dev，在 http://127.0.0.1:4173/ 预览。主分支相关改动通过 GitHub Actions 自动发布到 [GitHub Pages](https://kingsjoys.github.io/kingsSafe/)，PR 只检查不发布。二级域名绑定见[部署说明](../docs/deployment.md)。
+本地执行 npm run build 和 npm run dev，在 http://127.0.0.1:4173/ 预览。主分支相关改动通过 GitHub Actions 自动发布到 [GitHub Pages](https://safe.kingsjoys.com/)，PR 只检查不发布。二级域名绑定见[部署说明](../docs/deployment.md)。
 
 视觉规范：整站不使用装饰性边框或分隔线，通过色块、留白与柔和阴影区分区域；保留键盘焦点提示。
 
