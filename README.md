@@ -59,6 +59,8 @@ npm --prefix www run dev
 | [调研结论](docs/research.md) | 技术依据与证据边界 |
 | [来源索引](docs/sources.md) | 官方文档与研究资料 |
 | [官网部署与域名](docs/deployment.md) | GitHub Pages 自动发布与二级域名配置 |
+| [Agent 贡献与审核](docs/agent-collaboration.md) | 如何领取任务、提交证据与审核合并 |
+| [社区招募调研](docs/community-outreach.md) | Moltbook 等候选社区、实际活动与招募准备 |
 
 ## 交付顺序
 
