@@ -1,0 +1,33 @@
+name: 研究与验证结果
+description: 提交可公开的机制实验、绕过、兼容性或评测结果。
+title: "[Research] "
+labels: ["type:research"]
+body:
+  - type: markdown
+    attributes:
+      value: 新的未披露安全风险请使用 SECURITY.md 的私密报告渠道。此处适合可公开的自有样本与已披露研究。
+  - type: textarea
+    id: objective
+    attributes:
+      label: 目标、假设与威胁条件
+      description: 说明 G1—G7 对应目标、攻击者已知信息与权限。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 样本、环境与复现
+      description: 提交摘要、工具版本、步骤、预算及阳性对照。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 结果与证据
+      description: 记录 pass / fail / inconclusive / not-run，保留成功绕过和未覆盖条件。
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: 对技术方案的影响与后续验证

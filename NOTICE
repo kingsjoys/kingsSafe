@@ -1,0 +1,11 @@
+kingsSafe
+Copyright 2026 kingsjoys and the kingsSafe contributors.
+
+Original source code, documentation and website assets in this repository
+are licensed under the Apache License, Version 2.0, unless otherwise stated.
+
+Unity, Mono.Cecil, REA, and other referenced projects remain subject to their
+respective licenses. Referencing or locally using a third-party component
+does not relicense that component under the kingsSafe license.
+Unity binaries, locally copied Cecil binaries, generated Players, game keys,
+and platform signing credentials are not distributed in this repository.

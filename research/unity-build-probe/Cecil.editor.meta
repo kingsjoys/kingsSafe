@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 88b42aa1d8404ef0a5d09cfcb4e01997
+PluginImporter:
+  serializedVersion: 2
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 1
+  platformData:
+  - first:
+      : Any
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
+        DefaultValueInitialized: true
+        OS: AnyOS

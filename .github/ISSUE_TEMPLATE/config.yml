@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 私密安全报告
+    url: https://github.com/kingsjoys/kingsSafe/security/advisories/new
+    about: 未披露漏洞、凭证或真实部署风险请使用私密渠道。
+  - name: 产品与研究文档
+    url: https://github.com/kingsjoys/kingsSafe/tree/main/docs
+    about: 请先查看定位、已知边界与验证标准。

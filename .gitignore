@@ -1,0 +1,24 @@
+# Local and private workspace data
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+.local-backups/
+.openai/
+.sites-runtime/
+.sites-checkout/
+
+# Generated website and Python data
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+
+# Generated Unity research projects and output (keep source templates)
+research/unity-build-probe/Project/
+research/unity-build-probe/artifacts/
